@@ -1,0 +1,28 @@
+/* Write your CSS here */
+.app-container {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+  height: 100vh;
+}
+.main-container {
+  background-color: #1e293b;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-family: Bree Serif;
+}
+.head {
+  color: #f0bb03;
+  font-size: 50px;
+}
+.para {
+  color: #ffffff;
+  font-size: 20px;
+}
+.subscribe {
+  padding: 10px;
+  border-radius: 10px;
+}
